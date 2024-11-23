@@ -1,0 +1,9 @@
+﻿global using CompanyEmployees.Extensions;
+global using Microsoft.AspNetCore.HttpOverrides;
+global using NLog;
+global using LoggerService;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Repository;
+global using Microsoft.EntityFrameworkCore;
+global using Contracts;
